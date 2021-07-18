@@ -18,4 +18,4 @@ var isPrime = function(number) {
   //let's put the function in action by passing a number 
   // to check if it is a prime number.
 
-  console.log(isPrime(4));
+  console.log(isPrime(4)); //false
